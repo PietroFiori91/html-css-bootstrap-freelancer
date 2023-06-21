@@ -7,3 +7,26 @@
   border-top: 3px solid black;
   margin: auto;
 }
+
+.section-2 img {
+  max-width: 200px;
+}
+
+.bg-color-1 {
+  background-color: rgb(186, 76, 99);
+}
+.bg-color-2 {
+  background-color: rgb(31, 164, 182);
+}
+.bg-color-3 {
+  background-color: rgb(19, 15, 15);
+}
+.bg-color-4 {
+  background-color: rgb(29, 131, 193);
+}
+.bg-color-5 {
+  background-color: rgb(16, 55, 181);
+}
+.bg-color-6 {
+  background-color: rgb(204, 178, 163);
+}
