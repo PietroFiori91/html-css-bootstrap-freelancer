@@ -9,7 +9,16 @@
 }
 
 .section-2 img {
-  max-width: 200px;
+  max-width: 400px;
+}
+
+.box-img-nav i {
+  font-size: 2.5rem;
+  padding: 1rem 0;
+}
+
+.fa-bars {
+  width: 100px;
 }
 
 .bg-color-1 {
@@ -29,4 +38,22 @@
 }
 .bg-color-6 {
   background-color: rgb(204, 178, 163);
+}
+
+@media screen and (min-width: 576px) {
+}
+
+@media screen and (min-width: 768px) {
+  .section-2 img {
+    max-width: 300px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+}
+
+@media screen and (min-width: 1200px) {
+}
+
+@media screen and (min-width: 1400px) {
 }
